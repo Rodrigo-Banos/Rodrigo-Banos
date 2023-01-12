@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rodrigo-Banos
-- 👀 I’m interested in Data Science & Big Data
-- 🌱 I’m currently learning Python for Data Science and automation
+- 👀 I’m interested in Automation and Data Science with Python
+- 🌱 I’m always learning
 - 💞️ I’m looking to collaborate on automation projects for daily excel activities and make people´s jobs easier
 - 📫 How to reach me: rodrigo.banos.hernandez@gmail.com
 
